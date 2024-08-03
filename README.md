@@ -1,1 +1,1 @@
-This is repo contains all files related to Navacharan labbs
+This is repo contains all files related to Navacharan labs
